@@ -8,4 +8,39 @@
 }
 
 /* Fill your code*/
+.spl{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+.spl{background-image: url("head.jpg");}
 
+    h1{
+        text-align: center;
+    }
+    .bot{
+        display: flex;
+     
+        margin-bottom: 10px;
+    }
+    .bot{
+        background-image: url("head.jpg");
+    }
+    .menu ul li{
+        display: inline;
+        margin:0 80px ;
+    
+    }
+    .menu ul li {
+         color: rgb(255, 255, 255);
+    }
+    button{
+        padding: 5px;
+        border-radius: 20px;
+        background-color: rgb(136, 42, 165);
+    }
+    .section{
+        
+        background-color: rgb(136, 42, 165);
+    }
